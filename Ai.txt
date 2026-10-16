@@ -1,0 +1,18 @@
+#saved as py as that makes handing it in simpler
+https://chatgpt.com/share/6ad1e1da-7098-83ed-96cd-7e7c8f0c11f0 (summary at the end) 
+
+
+another chat:
+I have worked on tasks 3–5 and on reorganising the notebook with the help of artificial 
+intelligence (Claude).
+
+My friend wrote the code for tasks 1-2, I asked Claude to explain it, and kept parts of 
+it in tasks 3-5, also keeping the taken approach.
+
+I did not copied the whole code, but I was asking Claude about how to approach the tasks. 
+I have asked for suggestions on which commands I should use, and in some cases, for their 
+detailed explanations, so I could understand and explain the code myself better.
+
+Claude also helped me find and fix errors, for example the missing client ID and why the 
+data had 730 days instead of 365. I ran the code myself, checked the outputs, and decided 
+which suggestions to use.
